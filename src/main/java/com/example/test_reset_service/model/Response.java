@@ -1,4 +1,4 @@
-package com.example.test_reset_servise.model;
+package com.example.test_reset_service.model;
 
 import lombok.Builder;
 import lombok.Data;
